@@ -23,7 +23,7 @@
 </div>
 
 <h2 align="center">
-    <p>Hot News: <a href="https://github.com/huggingface/lerobot/blob/main/examples/7_get_started_with_real_robot.md">New tutorial: Getting starting with Real-World Robots</a></p>
+    <p>Hot News: <a href="https://github.com/huggingface/lerobot/blob/main/examples/7_get_started_with_real_robot.md">New tutorial: Getting started with Real-World Robots</a></p>
 </h2>
 
 <div align="center">
